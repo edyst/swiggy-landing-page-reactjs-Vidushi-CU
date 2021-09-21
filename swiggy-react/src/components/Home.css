@@ -1,5 +1,5 @@
 .herosection {
-  min-height: 600px;
+  min-height: 500px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -16,6 +16,7 @@
 .hero-subsec {
   padding-left: 10.5vw;
   max-width: 80%;
+  margin-top: 50px;
 }
 
 .nav-details {
